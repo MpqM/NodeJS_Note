@@ -1,4 +1,4 @@
-# Note
+Note
 #### ⚪ About Project
 * ##### 개인노트서비스, 세션을 사용한 유저 인증, Express 기반 REST API설계
 * ##### React, NodeJs, Express, MongoDB, TypeScript를 사용한 클론 코딩을 통해 MERN 스택 앱 구축
