@@ -1,15 +1,15 @@
-# Note
-* * *
+Note
+---
 ⚪ About Project
 * 개인노트서비스, 세션을 사용한 유저 인증, Express 기반 REST API설계
 * React, NodeJs, Express, MongoDB, TypeScript를 사용한 클론 코딩을 통해 MERN 스택 앱 구축
+---
 
-* * *
-⚪ Usage<br/>
+⚪ Usage
 https://www.youtube.com/watch?v=Wl9k9AdOlCM
 <a align = "center" ><img src = https://user-images.githubusercontent.com/79093184/259305883-7dabfc3f-db6f-4862-b8bb-8b6b143eba7d.png></a>
 
-* * *
+---
 ⚪ Built With
 * Frontend
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
