@@ -39,15 +39,15 @@
 
 #### ⚪ Description
 * User 
-* User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
-* MongoDB를 이용해 세션을 DB에 저장하는 인증 및 로그인, 로그아웃, 회원가입기능 구현
-* react-hook을 이용한 커스텀 유효성검증 로그인, 회원가입용 Form 객체 구현
+  * User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
+  * MongoDB를 이용해 세션을 DB에 저장하는 인증 및 로그인, 로그아웃, 회원가입기능 구현
+  * react-hook을 이용한 커스텀 유효성검증 로그인, 회원가입용 Form 객체 구현
 * Note
-* NOTE 삭제, 작성, 수정, 작성일자표시
-* react-bootstrap Modal을 이용한 Note 작성, 수정 컴포넌트 구현
+  * NOTE 삭제, 작성, 수정, 작성일자표시
+  * react-bootstrap Modal을 이용한 Note 작성, 수정 컴포넌트 구현
 * RESTAPI
-* USER: 회원가입, 로그인, 로그아웃, 인증정보가져오기 구현
-* Note: 삭제, 조회, 업데이트, 생성
+  * USER: 회원가입, 로그인, 로그아웃, 인증정보가져오기 구현
+  * Note: 삭제, 조회, 업데이트, 생성
 
 - - -
 
