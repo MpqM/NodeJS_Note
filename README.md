@@ -1,7 +1,7 @@
 # Note
 #### ⚪ About Project
-  * MognDB Id를 통한 개인노트서비스, 세션 인증, express 기반 REST API설계
-  * React, NodeJs, Express, MongoDB, TypeScript를 사용한 MERN 스택 앱 구축
+* MognDB Id를 통한 개인노트서비스, 세션 인증, express 기반 REST API설계
+* React, NodeJs, Express, MongoDB, TypeScript를 사용한 MERN 스택 앱 구축
 
 - - -
 
