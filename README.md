@@ -14,14 +14,14 @@
 
 - - -
 
-#### ⚪ Built With
+⚪ Built With
 <p align="center">
  <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img alt="mongodb" src ="https://img.shields.io/badge/mongodb-339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 - - -
 
-#### ⚪ Getting Started
+⚪ Getting Started
  ```bash
  # prerequisites: npm, node, MongoDB Connection URL
  # execution
@@ -37,7 +37,7 @@
 
 - - -
 
-#### ⚪ Description
+⚪ Description
 * User 
   * User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
   * MongoDB를 이용해 세션을 DB에 저장하는 인증 구현
@@ -51,13 +51,13 @@
 
 - - -
 
-#### ⚪ Acknowledgments & License & reference
-   * https://github.com/codinginflow
-   * https://www.youtube.com/watch?v=FcxjCPeicvU&list=PLOUvtUUMpFinL9UvIeZmCYWOEaQNs33XO&index=12&t=4568s
+⚪ Acknowledgments & License & reference
+ * https://github.com/codinginflow
+ * https://www.youtube.com/watch?v=FcxjCPeicvU&list=PLOUvtUUMpFinL9UvIeZmCYWOEaQNs33XO&index=12&t=4568s
 
 - - -
 
-#### ⚪ Writer
+⚪ Writer
 <p align ="center">
   <img src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href = "https://github.com/MpqM"><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </p>
