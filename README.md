@@ -40,7 +40,7 @@
 #### ⚪ Description
 * User 
   * User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
-  * MongoDB를 이용해 세션을 DB에 저장하는 인증 및 로그인, 로그아웃, 회원가입기능 구현
+  * MongoDB를 이용해 세션을 DB에 저장하는 인증 구현
   * react-hook을 이용한 커스텀 유효성검증 로그인, 회원가입용 Form 객체 구현
 * Note
   * NOTE 삭제, 작성, 수정, 작성일자표시
