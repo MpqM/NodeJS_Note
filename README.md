@@ -1,7 +1,7 @@
 # Note
 #### ⚪ About Project
-* #### MognDB Object Id를 통한 개인노트서비스, 세션 인증, express 기반 REST API설계
-* #### React, NodeJs, Express, MongoDB, TypeScript를 사용한 MERN 스택 앱 구축
+* ##### MognDB Object Id를 통한 개인노트서비스, 세션 인증, express 기반 REST API설계
+* ##### React, NodeJs, Express, MongoDB, TypeScript를 사용한 MERN 스택 앱 구축
 
 - - -
 
@@ -38,14 +38,14 @@
 - - -
 
 #### ⚪ Description
-* #### User 
-  * #### User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
-  * #### 회원가입, 로그인/아웃, DB 저장 세션 인증 구현
-  * #### react-hook을 이용한 커스텀 유효성검증 로그인, 회원가입용 Form 객체 구현
+* ##### User 
+  * ##### User별 MongoDB Obj ID를 통해 자신만의 NotePage를 가짐
+  * ##### 회원가입, 로그인/아웃, DB 저장 세션 인증 구현
+  * ##### react-hook을 이용한 커스텀 유효성검증 로그인, 회원가입용 Form 객체 구현
 * Note
-  * #### NOTE 삭제, 작성, 수정, 조회
-  * #### MongoDB Object Id를 통해 User ObectId를 기준으로 개인 식별
-  * #### react-bootstrap Modal을 이용한 Note 작성, 수정 컴포넌트 구현
+  * ##### NOTE 삭제, 작성, 수정, 조회
+  * ##### MongoDB Object Id를 통해 User ObectId를 기준으로 개인 식별
+  * ##### react-bootstrap Modal을 이용한 Note 작성, 수정 컴포넌트 구현
 
 - - -
 
