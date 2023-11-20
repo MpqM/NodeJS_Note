@@ -51,12 +51,6 @@
 
 - - -
 
-⚪ Acknowledgments & License & reference
- * https://github.com/codinginflow
- * https://www.youtube.com/watch?v=FcxjCPeicvU&list=PLOUvtUUMpFinL9UvIeZmCYWOEaQNs33XO&index=12&t=4568s
-
-- - -
-
 ⚪ Writer
 <p align ="center">
   <img src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href = "https://github.com/MpqM"><img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img src ="https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
@@ -64,4 +58,8 @@
 
 - - -
 
+⚪ Acknowledgments & License & reference
+ * https://github.com/codinginflow
+ * https://www.youtube.com/watch?v=FcxjCPeicvU&list=PLOUvtUUMpFinL9UvIeZmCYWOEaQNs33XO&index=12&t=4568s
 
+- - -
